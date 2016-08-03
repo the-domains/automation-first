@@ -12,3 +12,7 @@ color:
     - '#5C6B73'
     - '#253237'
 name: Automation First
+navigation:
+  - name: Mighty Audio's Portable Player
+    id: 9ea9c7ea-2b5e-4d93-b37e-64d5b3d31715
+    type: content
