@@ -1,0 +1,14 @@
+layout_spectrum: 0.795523279812187
+typography_spectrum: 0.3044595767278224
+color:
+  brandStrength: 0.6077521056868136
+  lightness: 0.6775981178507209
+  saturation: 0.241935555357486
+  rhythmicContrast: 0.1500772552099079
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Automation First
