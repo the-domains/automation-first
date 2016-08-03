@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-03T18:57:56.511Z'
+datePublished: '2016-08-03T19:00:13.954Z'
 sourcePath: _posts/2016-04-15-mighty-audios-portable-player.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.coolhunting.com/tech/mighty-kickstarter-portable-media-player-spotify-streaming
-hasPage: false
+hasPage: true
 keywords:
   - mighty
   - spotify
@@ -18,7 +16,7 @@ keywords:
   - downloading
 related: []
 author: []
-dateModified: '2016-08-03T18:57:56.170Z'
+dateModified: '2016-08-03T19:00:13.587Z'
 title: Mighty Audio's Portable Player
 app_links: []
 publisher:
@@ -36,6 +34,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: mighty-audios-portable-player/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
